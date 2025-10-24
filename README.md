@@ -516,3 +516,4 @@ See also the list of [contributors](https://github.com/JonnyHaystack/HayBox/cont
 ## License
 
 This project is licensed under the GNU GPL Version 3 - see the [LICENSE](LICENSE) file for details
+
