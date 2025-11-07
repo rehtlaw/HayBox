@@ -17,6 +17,8 @@ jobs:
         include:
           - env: splittangl
             bin_ext: uf2
+          - env: splttangl-custom
+            bin_ext: uf2
 
     steps:
     - name: Check out source code
